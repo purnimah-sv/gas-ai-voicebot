@@ -1,0 +1,6 @@
+[
+  "Gas name change requires Aadhaar and KYC",
+  "Death transfer requires legal heir certificate",
+  "Address proof can be ration card",
+  "Accepted ID proof includes Aadhaar"
+]
