@@ -1,0 +1,4 @@
+import time
+
+def log_latency(start):
+    print("Latency:", time.time() - start)
